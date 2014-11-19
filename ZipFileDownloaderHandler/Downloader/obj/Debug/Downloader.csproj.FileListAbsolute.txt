@@ -1,8 +1,0 @@
-c:\users\ajit\documents\visual studio 2013\Projects\Solution1\Downloader\bin\Downloader.dll.config
-c:\users\ajit\documents\visual studio 2013\Projects\Solution1\Downloader\bin\Downloader.dll
-c:\users\ajit\documents\visual studio 2013\Projects\Solution1\Downloader\bin\Downloader.pdb
-c:\users\ajit\documents\visual studio 2013\Projects\Solution1\Downloader\bin\Ionic.Zip.dll
-c:\users\ajit\documents\visual studio 2013\Projects\Solution1\Downloader\bin\Ionic.Zip.xml
-c:\users\ajit\documents\visual studio 2013\Projects\Solution1\Downloader\obj\Debug\Downloader.csprojResolveAssemblyReference.cache
-c:\users\ajit\documents\visual studio 2013\Projects\Solution1\Downloader\obj\Debug\Downloader.dll
-c:\users\ajit\documents\visual studio 2013\Projects\Solution1\Downloader\obj\Debug\Downloader.pdb
